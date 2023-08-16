@@ -1,3 +1,4 @@
+![logo](https://github.com/AmitDixit0101/AmitDixit0101/blob/main/BANNER.png)
 <h1 align="center">Hi 👋, I'm AMIT DIXIT</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
